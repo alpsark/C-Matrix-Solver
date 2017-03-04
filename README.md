@@ -1,4 +1,5 @@
 # C-Matrix-Solver
+Written in C++
 Solves classic A.x = b with given A and b  
 This program gives the result of A*x=B matrix equation.Assuming A is invertible(non-singular) and square  
 
